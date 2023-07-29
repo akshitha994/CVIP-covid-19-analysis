@@ -1,1 +1,2 @@
 # CVIP-covid-19-analysis
+This repository contains the code and analysis for the COVID-19 Data Analysis Project. The goal of this project is to explore, analyze, and visualize COVID-19 data to gain insights into the spread and impact of the pandemic. By utilizing various data analysis techniques, we aim to understand patterns, trends, and correlations in the data to inform decision-making and raise awareness about the ongoing health crisis.
